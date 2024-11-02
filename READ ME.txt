@@ -1,0 +1,26 @@
+<--WELCOME-->
+
+Please follow these steps
+	
+	1. First you should download all files (Landing Page folder).
+
+	2. Then, extract the folder to below path
+		This Pc --> Disk C: --> xampp --> htdocs	//The xampp folder path will be changed in your device
+
+	3. Open xampp control panel and turn on Apache server & MySQL server.
+
+	4. Then go to the phpMyAdmin page.	//You can easily go to it from click admin button on xampp control panel inline of MySQL
+
+	5. Create new two databases named as "libsystem" & "saegislibrary".  //Please do not change the database names.
+
+	6. Then click "libsystem" database and go to the "Import" tab and click "choose file" then choose the "libsystem.sql" file in the database folder.
+	
+	7. Like that select "saegislibrary" database and go to the "Import" tab and click "choose file" then choose the "saegislibrary.sql" file in the database folder. 
+
+	8. Ok, that;s it. Now search the web browser as "localhost/Landing Page/Landing Page.php".
+
+
+	Admin Username --> saegislibrary
+	Admin Password --> Saegis@12345
+
+<--THANK YOU--> 	   

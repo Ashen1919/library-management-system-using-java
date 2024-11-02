@@ -1,0 +1,33 @@
+Library Management System Software License Agreement
+
+This Library Management System Software License Agreement ("Agreement") is a legal agreement between you (either an individual or an entity) ("Licensee") and [Your Company Name], the owner of the Library Management System software ("Software"). By installing, copying, or otherwise using the Software, Licensee agrees to be bound by the terms and conditions of this Agreement.
+
+1. LICENSE GRANT AG SOFTWARES grants Licensee a non-exclusive, non-transferable license to install and use the Software for the purpose of managing a library system. This license is limited to the number of users and installations allowed by the specific license purchased.
+
+2. RESTRICTIONS Licensee may not:
+
+Distribute, sublicense, or transfer copies of the Software to third parties.
+Reverse engineer, decompile, or disassemble the Software.
+Modify, adapt, or create derivative works based on the Software.
+Use the Software for any purpose other than managing a library system.
+3. OWNERSHIP The Software is owned by AG SOFTWARES and is protected by copyright laws and international treaty provisions. Licensee acknowledges that no title to the intellectual property in the Software is transferred to Licensee.
+
+4. TERMINATION This Agreement is effective until terminated. Licensee may terminate it at any time by destroying all copies of the Software in its possession. The Agreement will also terminate if Licensee fails to comply with any terms or conditions of this Agreement. Upon termination, Licensee agrees to destroy all copies of the Software.
+
+5. LIMITED WARRANTY AG SOFTWARES warrants that the Software will substantially perform the functions described in the accompanying documentation for a period of ninety (90) days from the date of receipt. If a defect in the Software is found during this period, AG SOFTWARES will either replace the defective Software or refund the license fee, at its discretion.
+
+6. DISCLAIMER OF WARRANTIES EXCEPT FOR THE LIMITED WARRANTY IN SECTION 5, THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT. AG SOFTWARES DOES NOT WARRANT THAT THE SOFTWARE WILL MEET LICENSEE'S REQUIREMENTS OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+7. LIMITATION OF LIABILITY TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL AG SOFTWARES BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES, OR FOR LOSS OF PROFITS, REVENUE, DATA, OR USE, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE SOFTWARE, EVEN IF AG SOFTWARES HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8. SUPPORT SERVICES AG SOFTWARES may provide support services related to the Software ("Support Services"). Any supplemental software code provided to Licensee as part of the Support Services shall be considered part of the Software and subject to the terms and conditions of this Agreement.
+
+9. UPDATES AG SOFTWARES may, from time to time, revise or update the Software, and such updates may be provided to Licensee under the terms of this Agreement. Licensee agrees that AG SOFTWARES is not obligated to provide updates or enhancements to the Software.
+
+10. GOVERNING LAW This Agreement shall be governed by and construed in accordance with the laws of Sri Lanka, without regard to its conflict of law principles.
+
+11. ENTIRE AGREEMENT This Agreement constitutes the entire agreement between the parties concerning the subject matter hereof, and it supersedes any prior agreements, discussions, or understandings.
+
+12. ACCEPTANCE By clicking "I Agree" or by installing or using the Software, Licensee acknowledges that they have read this Agreement, understand it, and agree to be bound by its terms and conditions.
+
+AG SOFTWARES
